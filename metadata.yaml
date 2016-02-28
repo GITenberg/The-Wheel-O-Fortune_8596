@@ -1,0 +1,24 @@
+_repo: The-Wheel-O-Fortune_8596
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Wheel O' Fortune
+url: http://www.gutenberg.org/ebooks/8596
